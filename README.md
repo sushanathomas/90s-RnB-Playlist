@@ -117,3 +117,6 @@ The server passes song information to EJS, which displays it on the profile page
 - [View the GIF and its source attribution on GIPHY](https://giphy.com/gifs/blackground-aaliyah-4-page-letter-TIA6S9wO3RSsJQlACz).
 
 The GIF is embedded for visual presentation. I do not claim ownership of the GIF or the underlying footage.
+
+## Author
+Sushana Thomas 
